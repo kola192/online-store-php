@@ -93,6 +93,8 @@
               <li><a href="publisher_list.php"><span class="glyphicon glyphicon-paperclip custom-anchors"></span>&nbsp; Publisher</a></li>
               <!-- link to books.php -->
               <li><a href="books.php"><span class="glyphicon glyphicon-book custom-anchors"></span>&nbsp; Books</a></li>
+              <!-- link to shopping cart -->
+              <li><a href="cart.php"><span class="glyphicon glyphicon-shopping-cart custom-anchors"></span>&nbsp; My Cart</a></li>
               <!-- link to admin -->
               <li><a href="admin.php" class="text-primary">Admin Login</a></li>
             </ul>
